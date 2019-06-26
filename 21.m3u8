@@ -1,0 +1,3 @@
+#EXTINF:0,Hollywood Movies 2.m3u8
+#EXTVLCOPT:network-caching=1000
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
