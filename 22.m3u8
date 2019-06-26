@@ -1,0 +1,3 @@
+#EXTINF:0,Olympic.m3u8
+#EXTVLCOPT:network-caching=1000
+https://ott-live.olympicchannel.com/out/u/OC1.m3u8
