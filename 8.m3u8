@@ -1,6 +1,8 @@
 #EXTINF:-1 tvg-id="001" tvg-name="CN" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="CCTV中国",CCTV中国中央电视台-5+ 体育赛事
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 
+#EXTINF:-1 tvg-id="010" tvg-name="HK" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="CCTV中国",ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
 
 #EXTINF:-1 tvg-id="6242" tvg-name="無碼中文RP-064-絕頂的徹底驗證 吉田美櫻" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://fbhost1.imgscloud.com/s/ei/CH21162.jpg" group-title="無碼中文",無碼中文RP-064-絕頂的徹底驗證 吉田美櫻
 https://fc.imgscloud.com/d/trksogvksg/trksogvksg.m3u8
