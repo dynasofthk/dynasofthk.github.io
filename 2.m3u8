@@ -1,3 +1,82 @@
-#EXTINF:0,江苏卫视高清.m3u8
-#EXTVLCOPT:network-caching=1000
-http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CNNMeiGuo.us" tvg-name="CNN(美国)" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/gb/CNN.uk.png" tvg-url="" group-title="News",CNN(美国)
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalMeiGuo.us" tvg-name="CNN International (美国)" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/gb/CNN.uk.png" tvg-url="" group-title="News",CNN International (美国)
+https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/us/FoxNews.us.png" tvg-url="" group-title="News",Fox News(美国)
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 ,TVB J2台
+http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
+#EXTINF:-1 ,TVB 星河台
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 ,TVB明珠台
+http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
+#EXTINF:-1 ,TVB翡翠台
+http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
+#EXTINF:-1 ,TVB新聞台
+http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
+
+
+#EXTINF:-1 ,NOW SPORT
+http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 ,RTHK31
+
+
+#EXTINF:-1 tvg-id="001" tvg-name="CN" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="CCTV中国",CCTV中国中央电视台-5+ 体育赛事
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+
+#EXTINF:-1 tvg-id="010" tvg-name="HK" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="HK",ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="010" tvg-name="HK" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="HK",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 ,港台電視31 (720p)
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+
+
+
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Education",CCTV中国中央电视台-10 科教
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV中国中央电视台-6 电影
+http://117.169.120.140:8080/live/cctv-6/.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV中国中央电视台-8 电视剧
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+
+#EXTINF:-1 tvg-id="JiangSuWeiShi.cn" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",江苏卫视高清
+http://117.169.120.140:8080/live/hdjiangsustv/.m3u8
+#EXTINF:-1 tvg-id="MinShi.tw" tvg-name="民視" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-url="" group-title="General",民視
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-id="MinShiTaiWan.tw" tvg-name="民視台灣" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" tvg-url="" group-title="News",民視台灣
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 tvg-id="MinShiXinWenTai.tw" tvg-name="民視新聞台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/6jbjVNy.png" tvg-url="" group-title="News",民視新聞台
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="MinShiDiYi.tw" tvg-name="民視第一" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" tvg-url="" group-title="General",民視第一
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-id="YiDianShiXinWenTai.tw" tvg-name="壹電視新聞台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://store-images.s-microsoft.com/image/apps.14454.9007199266706361.be7aa2de-7429-4e34-b9a4-eca9a55157c1.3eb6a511-ff23-46aa-bf3a-b8b7e7e5c808?mode=scale&q=90&h=270&w=270&background=%23FFFFFF" tvg-url="" group-title="News",壹電視新聞台
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+
+
+#EXTINF:-1 ,求索一
+http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 ,求索三
+http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 ,求索二
+http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 ,求索四
+http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+
+#EXTINF:-1 tvg-id="CIBNZhenRenXiu.cn" tvg-name="CIBN真人秀" tvg-country="CN" tvg-language="Chinese" tvg-logo="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CIBN真人秀
+http://149.129.100.78/cibn.php?id=106
+#EXTINF:-1 tvg-id="CIBNJiLuPian.cn" tvg-name="CIBN纪录片" tvg-country="CN" tvg-language="Chinese" tvg-logo="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CIBN纪录片
+http://149.129.100.78/cibn.php?id=103
+#EXTINF:-1 tvg-id="CIBNJingDianJuChang.cn" tvg-name="CIBN经典剧场" tvg-country="CN" tvg-language="Chinese" tvg-logo="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CIBN经典剧场
+http://149.129.100.78/cibn.php?id=107
+#EXTINF:-1 tvg-id="CIBNZongHe.cn" tvg-name="CIBN综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CIBN综合
+http://149.129.100.78/cibn.php?id=112
+
+
+#EXTINF:-1 ,天映经典
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 ,天映频道
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
