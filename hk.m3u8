@@ -5,34 +5,7 @@ https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="Celestial Movies" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Movies",Celestial Movies (480p)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-id="Kix.hk" tvg-name="Kix" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/mX1nnGy.png" group-title="Entertainment",Kix
-http://210.210.155.35/uq2663/h/h07/01.m3u8
-#EXTINF:-1 tvg-id="Kix.hk" tvg-name="Kix" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="",Kix
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="RTHKGangTaiDianShi31.hk" tvg-name="RTHK (港台電視31)" tvg-country="HK" tvg-language="" tvg-logo="http://tv.sason.xyz/logo/rthk31.png" group-title="",RTHK (港台電視31)
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="RTHKGangTaiDianShi32.hk" tvg-name="RTHK (港台電視32)" tvg-country="HK" tvg-language="" tvg-logo="" group-title="",RTHK (港台電視32)
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-#EXTINF:-1 tvg-id="RTHKGangTaiDianShi32.hk" tvg-name="RTHK (港台電視32)" tvg-country="HK" tvg-language="" tvg-logo="http://tv.sason.xyz/logo/rthk32.png" group-title="",RTHK (港台電視32)
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-name="RTHK TV 31" tvg-country="HK" tvg-language="" tvg-logo="https://i.imgur.com/H36G8wZ.png" group-title="",RTHK TV 31
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
-#EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-name="RTHK TV 32" tvg-country="HK" tvg-language="" tvg-logo="" group-title="",RTHK TV 32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_702_av-b.m3u8
-#EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-name="RTHK TV 32" tvg-country="HK" tvg-language="" tvg-logo="https://i.imgur.com/fmzC0MN.png" group-title="",RTHK TV 32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_702_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="RTHK31.hk" tvg-name="RTHK31" tvg-country="HK" tvg-language="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="",RTHK31
-http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_2052_av-p.m3u8
-#EXTINF:-1 tvg-id="RTHK32.hk" tvg-name="RTHK32" tvg-country="HK" tvg-language="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK32.png" group-title="",RTHK32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
-#EXTINF:-1 tvg-id="StarSports.hk" tvg-name="Star Sports" tvg-country="SAS" tvg-language="English" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="Sports",Star Sports
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-country="HK" tvg-language="" tvg-logo="" group-title="",Thrill
-http://45.126.83.51/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-country="SAS" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="Movies",Thrill (480p)
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-country="HK" tvg-language="" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="",Thrill
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
 #EXTINF:-1 tvg-id="TVBJade.hk" tvg-name="TVB Jade" tvg-country="HK" tvg-language="Chinese" tvg-logo="" group-title="",TVB Jade
 http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=30
 #EXTINF:-1 tvg-id="TVBXingHe.hk" tvg-name="TVB Xing He" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="",TVB Xing He 星河
@@ -72,72 +45,7 @@ http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="鳳凰衛視電影台" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="",鳳凰衛視電影台
 rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 #EXTM3U
-#EXTINF:-1 tvg-id="CTITVAsia.tw" tvg-name="CTI TV Asia" tvg-country="TW" tvg-language="Chinese" tvg-logo="" group-title="",CTI TV Asia
-https://linkastream.co/headless?url=https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live
-#EXTINF:-1 tvg-id="GOODTVCH1ZongHeTai.tw" tvg-name="GOOD TV CH1 綜合台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/1_file.jpg" group-title="Religious",GOOD TV CH1 綜合台 (720p)
-https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH10KaoXiangDuShuHuiDuanBan.tw" tvg-name="GOOD TV CH10 烤箱讀書會 短版" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/10_file.jpg" group-title="Religious",GOOD TV CH10 烤箱讀書會 短版 (720p)
-https://live.streamingfast.net/osmflivech10.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH12WeiTaMingShi.tw" tvg-name="GOOD TV CH12 維他命施" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/12_file.jpg" group-title="Religious",GOOD TV CH12 維他命施 (720p)
-https://live.streamingfast.net/osmflivech12.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH13JianKangXinZhuLiuDuanBan.tw" tvg-name="GOOD TV CH13 健康新煮流 短版" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/13_file.jpg" group-title="Religious",GOOD TV CH13 健康新煮流 短版 (720p)
-https://live.streamingfast.net/osmflivech13.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH14ZhenQingBuLuoGe.tw" tvg-name="GOOD TV CH14 真情部落格" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/14_file.jpg" group-title="Religious",GOOD TV CH14 真情部落格 (720p)
-https://live.streamingfast.net/osmflivech14.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH15ZhenQingZhiYe.tw" tvg-name="GOOD TV CH15 真情之夜" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/15_file.jpg" group-title="Religious",GOOD TV CH15 真情之夜 (720p)
-https://live.streamingfast.net/osmflivech15.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH16XieGuangMing.tw" tvg-name="GOOD TV CH16 葉光明" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/16_file.jpg" group-title="Religious",GOOD TV CH16 葉光明 (720p)
-https://live.streamingfast.net/osmflivech16.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH17DaWeiBaoSen.tw" tvg-name="GOOD TV CH17 大衛鮑森" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/17_file.jpg" group-title="Religious",GOOD TV CH17 大衛鮑森 (720p)
-https://live.streamingfast.net/osmflivech17.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH18GuoJiJiangYuan.tw" tvg-name="GOOD TV CH18 國際講員" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/18_file.jpg" group-title="Religious",GOOD TV CH18 國際講員 (720p)
-https://live.streamingfast.net/osmflivech18.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH19GongXiangGuanDian.tw" tvg-name="GOOD TV CH19 共享觀點" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/19_file.jpg" group-title="Religious",GOOD TV CH19 共享觀點 (720p)
-https://live.streamingfast.net/osmflivech19.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH2ZhenLiTai.tw" tvg-name="GOOD TV CH2 真理台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/2_file.jpg" group-title="Religious",GOOD TV CH2 真理台 (720p)
-https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH20EnDianShiFen.tw" tvg-name="GOOD TV CH20 恩典時分" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/20_file.jpg" group-title="Religious",GOOD TV CH20 恩典時分 (720p)
-https://live.streamingfast.net/osmflivech20.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH21HuaYuJiangYuan.tw" tvg-name="GOOD TV CH21 華語講員" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/21_file.jpg" group-title="Religious",GOOD TV CH21 華語講員 (720p)
-https://live.streamingfast.net/osmflivech21.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH22ZhiChangXinShiYe.tw" tvg-name="GOOD TV CH22 職場新視野" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/22_file.jpg" group-title="Religious",GOOD TV CH22 職場新視野 (720p)
-https://live.streamingfast.net/osmflivech22.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH23KongZhongZhuRiXueShengHuo.tw" tvg-name="GOOD TV CH23 空中主日學 生活" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/23_file.jpg" group-title="Religious",GOOD TV CH23 空中主日學 生活 (720p)
-https://live.streamingfast.net/osmflivech23.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH24LiuSanJiangGu.tw" tvg-name="GOOD TV CH24 劉三講古" tvg-country="TW" tvg-language="Chinese;Min Nan Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/24_file.jpg" group-title="Religious",GOOD TV CH24 劉三講古 (720p)
-https://live.streamingfast.net/osmflivech24.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH25FuQiRenSheng.tw" tvg-name="GOOD TV CH25 福氣人生" tvg-country="TW" tvg-language="Chinese;Min Nan Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/25_file.jpg" group-title="Religious",GOOD TV CH25 福氣人生 (720p)
-https://live.streamingfast.net/osmflivech25.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH26KongZhongZhuRiXueChaJing.tw" tvg-name="GOOD TV CH26 空中主日學 查經" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/26_file.jpg" group-title="Religious",GOOD TV CH26 空中主日學 查經 (720p)
-https://live.streamingfast.net/osmflivech26.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH27KongZhongShengJingXueYuan.tw" tvg-name="GOOD TV CH27 空中聖經學院" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/27_file.jpg" group-title="Religious",GOOD TV CH27 空中聖經學院 (720p)
-https://live.streamingfast.net/osmflivech27.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH28XianDaiShiGe.tw" tvg-name="GOOD TV CH28 現代詩歌" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/28_file.jpg" group-title="Religious",GOOD TV CH28 現代詩歌 (720p)
-https://live.streamingfast.net/osmflivech28.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH29JingDianYinLeHe.tw" tvg-name="GOOD TV CH29 經典音樂河" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/29_file.jpg" group-title="Religious",GOOD TV CH29 經典音樂河 (720p)
-https://live.streamingfast.net/osmflivech29.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH3ZhenQingBuLuoGeDuanBan.tw" tvg-name="GOOD TV CH3 真情部落格 短版" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/3_file.jpg" group-title="Religious",GOOD TV CH3 真情部落格 短版 (720p)
-https://live.streamingfast.net/osmflivech3.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH30TianTangJingBai.tw" tvg-name="GOOD TV CH30 天堂敬拜" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/30_file.jpg" group-title="Religious",GOOD TV CH30 天堂敬拜 (720p)
-https://live.streamingfast.net/osmflivech30.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH31FuYinBuDaoYinLeHui.tw" tvg-name="GOOD TV CH31 福音佈道音樂會" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/31_file.jpg" group-title="Religious",GOOD TV CH31 福音佈道音樂會 (720p)
-https://live.streamingfast.net/osmflivech31.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH32TeHuiXiLieDaoGaoYuZhuanHua.tw" tvg-name="GOOD TV CH32 特會系列：禱告與轉化" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/32_file.jpg" group-title="Religious",GOOD TV CH32 特會系列：禱告與轉化 (720p)
-https://live.streamingfast.net/osmflivech32.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH33TeHuiXiLieYanJingPeiLing.tw" tvg-name="GOOD TV CH33 特會系列：研經培靈" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/33_file.jpg" group-title="Religious",GOOD TV CH33 特會系列：研經培靈 (720p)
-https://live.streamingfast.net/osmflivech33.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH36TeHuiXiLieChaoZiRanDaNengYiZhiShiFang.tw" tvg-name="GOOD TV CH36 特會系列：超自然大能．醫治釋放" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/36_file.jpg" group-title="Religious",GOOD TV CH36 特會系列：超自然大能．醫治釋放 (720p)
-https://live.streamingfast.net/osmflivech36.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH37TeHuiXiLieYiSeLieZhuanTi.tw" tvg-name="GOOD TV CH37 特會系列：以色列專題" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/37_file.jpg" group-title="Religious",GOOD TV CH37 特會系列：以色列專題 (720p)
-https://live.streamingfast.net/osmflivech37.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH38TeHuiXiLieQingNianTeHui.tw" tvg-name="GOOD TV CH38 特會系列：青年特會" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/38_file.jpg" group-title="Religious",GOOD TV CH38 特會系列：青年特會 (720p)
-https://live.streamingfast.net/osmflivech38.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH40JiaTing8DianDangZhuanZhuanFaXianAi.tw" tvg-name="GOOD TV CH40 家庭8點檔轉轉發現愛" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/40_file.jpg" group-title="Religious",GOOD TV CH40 家庭8點檔轉轉發現愛 (720p)
-https://live.streamingfast.net/osmflivech40.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH41XingFuXueTang.tw" tvg-name="GOOD TV CH41 幸福學堂" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/41_file.jpg" group-title="Religious",GOOD TV CH41 幸福學堂 (720p)
-https://live.streamingfast.net/osmflivech41.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH44KaoXiangDuShuHui.tw" tvg-name="GOOD TV CH44 烤箱讀書會" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/44_file.jpg" group-title="Religious",GOOD TV CH44 烤箱讀書會 (720p)
-https://live.streamingfast.net/osmflivech44.m3u8
+
 #EXTM3U
 #EXTINF:-1 ,WarnerTV HD
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
@@ -276,7 +184,7 @@ http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8?epg=cntv-cctv5?回�
 #EXTINF:-1 ,精彩综艺
 http://39.134.24.193/PLTV/88888888/224/3221225807/index.m3u8?epg=cntv-cctv3?回看=http://39.134.24.193/PLTV/88888888/224/3221225807/index.m3u8
 
-#EXTINF:-1 ,破釜沉舟第一季 第1集
+#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210623-1/5df1cbfd91570db3fa36e109c2f2fea2.jpg",破釜沉舟第一季 第1集
 https://v7.dious.cc/20210623/WmVZh2gL/index.m3u8
 #EXTINF:-1 ,破釜沉舟第一季 第2集
 https://v7.dious.cc/20210623/g17LvOUr/index.m3u8
