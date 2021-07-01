@@ -275,3 +275,9 @@ http://39.134.24.193/PLTV/88888888/224/3221225811/index.m3u8?epg=cntv-cctv6?回�
 http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8?epg=cntv-cctv5?回看=http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8
 #EXTINF:-1 ,精彩综艺
 http://39.134.24.193/PLTV/88888888/224/3221225807/index.m3u8?epg=cntv-cctv3?回看=http://39.134.24.193/PLTV/88888888/224/3221225807/index.m3u8
+
+#EXTINF:-1 ,破釜沉舟第一季 第1集
+https://v7.dious.cc/20210623/WmVZh2gL/index.m3u8
+#EXTINF:-1 ,破釜沉舟第一季 第2集
+https://v7.dious.cc/20210623/g17LvOUr/index.m3u8
+
