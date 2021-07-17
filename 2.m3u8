@@ -3,10 +3,7 @@
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
 #EXTINF:-1,CCTV+ Channel 2
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
-#EXTINF:-1,央视新闻·正直播
-https://newsalic.v.myalicdn.com:443/news/news07_1/index.m3u8
-#EXTINF:-1,央视新闻·正直播
-https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
+
 #EXTINF:-1,CCTV-1 综合 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225642/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-5 体育 高清
@@ -19,3 +16,16 @@ http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf
 #EXTINF:-1,新视觉HD - 電視直播
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/xsjhd/2300000/mnf.m3u8
 
+#EXTINF:-1,Samsung Wild Life
+https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,国家地理
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+#EXTINF:-1,探索频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+
+#EXTINF:-1,暗黑 第一季 第01集在线观看 | 91美剧网
+https://cdn20.pztv.ca/upload/20190727/f000620606baecde7f3028fa7130d9cb/f000620606baecde7f3028fa7130d9cb.m3u8
+#EXTINF:-1,暗黑 第一季 第02集在线观看 | 91美剧网
+https://cdn8.pztv.ca/upload/20190727/b23f8147bc7defe90fad468484c73d05/b23f8147bc7defe90fad468484c73d05.m3u8
