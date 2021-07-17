@@ -29,3 +29,6 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 https://cdn20.pztv.ca/upload/20190727/f000620606baecde7f3028fa7130d9cb/f000620606baecde7f3028fa7130d9cb.m3u8
 #EXTINF:-1,暗黑 第一季 第02集在线观看 | 91美剧网
 https://cdn8.pztv.ca/upload/20190727/b23f8147bc7defe90fad468484c73d05/b23f8147bc7defe90fad468484c73d05.m3u8
+
+#EXTINF:-1 tvg-id="电影" tvg-logo="https://img.huishij.com/upload/vod/20210618-1/3ed48669dbd70aadc3c332223d27c6d0.jpg",悬崖之上 GoMovies-电影
+https://v3.dious.cc/20210618/agkqAkrJ/1000kb/hls/index.m3u8
