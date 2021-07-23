@@ -1,11 +1,16 @@
 #EXTM3U
-#EXTINF:-1,CCTV+ Channel 1
-http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
-#EXTINF:-1,CCTV+ Channel 2
-http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
-
 #EXTINF:-1,CCTV-1 综合 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225642/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-6 电影 高清
+http://39.135.138.8:6610/PLTV/88888888/224/3221225632/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-7 国防军事 高清
+http://39.135.138.8:6610/PLTV/88888888/224/3221225644/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-8 电视剧 高清
+http://39.135.138.8:6610/PLTV/88888888/224/3221225631/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-9 纪录 高清
+http://39.135.138.8:6610/PLTV/88888888/224/3221225646/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-10 科教 高清
+http://39.135.138.8:6610/PLTV/88888888/224/3221225636/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-5 体育 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-5+ 体育赛事 高清
@@ -32,10 +37,6 @@ https://cdn8.pztv.ca/upload/20190727/b23f8147bc7defe90fad468484c73d05/b23f8147bc
 
 #EXTINF:-1 tvg-id="电影" tvg-logo="https://img.huishij.com/upload/vod/20210618-1/3ed48669dbd70aadc3c332223d27c6d0.jpg",悬崖之上 GoMovies-电影
 https://v3.dious.cc/20210618/agkqAkrJ/1000kb/hls/index.m3u8
-
-
-#EXTINF:-1, tvg-logo="https://tva2.sinaimg.cn/large/007UW77jly1g5elwuwv4rj30sg0g0wfo.jpg",看不见的城市 第一季第01集
-https://v3.dious.cc/F20210206/7TjjMZOS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第1集
 https://v8.dious.cc/20210529/15ytOre3/index.m3u8
