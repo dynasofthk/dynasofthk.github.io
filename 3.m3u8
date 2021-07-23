@@ -1,15 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 ,WarnerTV HD
-https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 ,Tennis HD
 https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 ,NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 ,HISTORY HD
-https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 ,H2 HD
-https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1 ,Golf HD
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 ,Fox Sport3
@@ -19,8 +13,6 @@ https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 ,Fox Sport1
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 
-#EXTINF:-1 ,求索動物
-http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
 #EXTINF:-1 ,求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 ,求索科学
@@ -37,7 +29,3 @@ http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 ,求索记录4K
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 ,DiscoveryHDWorld
-https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:-1 ,AnimalPlanet
-https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
