@@ -9,6 +9,13 @@ http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf
 #EXTINF:-1,新视觉HD - 電視直播
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/xsjhd/2300000/mnf.m3u8
 
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sports",ESPN (720p)
+https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN
+http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FOXNews.us" tvg-name="FOX News" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="News",FOX News (720p)
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+
 #EXTINF:-1,CCTV-1 综合 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225642/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-6 电影 高清
