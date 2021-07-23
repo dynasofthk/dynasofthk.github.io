@@ -32,6 +32,23 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 #EXTINF:-1,探索频道
 rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-country="HK" tvg-language="" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="",ViuTV
+http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://aaaa.com.hk/main/wp-content/uploads/2020/02/ViuTV-logo.png" group-title="",ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-name="ViuTVsix" tvg-country="HK" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="",ViuTVsix
+http://61.238.6.49:8000/bysid/96
+#EXTINF:-1 tvg-id="TVBJade.hk" tvg-name="TVB Jade" tvg-country="HK" tvg-language="Chinese" tvg-logo="" group-title="",TVB Jade
+http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=30
+#EXTINF:-1 tvg-id="TVBXingHe.hk" tvg-name="TVB Xing He" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="",TVB Xing He 星河
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81）
+http://61.238.6.49:8000/bysid/1
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81）
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="XiangGangKaiDianShi.hk" tvg-name="香港開電視" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" group-title="General",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
 #EXTINF:-1,暗黑 第一季 第01集在线观看 | 91美剧网
 https://cdn20.pztv.ca/upload/20190727/f000620606baecde7f3028fa7130d9cb/f000620606baecde7f3028fa7130d9cb.m3u8
 #EXTINF:-1,暗黑 第一季 第02集在线观看 | 91美剧网
@@ -42,83 +59,4 @@ https://v3.dious.cc/20210618/agkqAkrJ/1000kb/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第1集
 https://v8.dious.cc/20210529/15ytOre3/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第2集
-https://v8.dious.cc/20210529/knnR0nMQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第3集
-https://v8.dious.cc/20210529/c6sDxzmJ/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第4集
-https://v8.dious.cc/20210529/1hA8YSSK/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第5集
-https://v8.dious.cc/20210529/C65lD4af/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第6集
-https://v8.dious.cc/20210529/6DfQhivi/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第7集
-https://v8.dious.cc/20210529/PzniaJUG/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第8集
-https://v8.dious.cc/20210529/qNGAo3xy/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第9集
-https://v8.dious.cc/20210529/Xb318DbU/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第10集
-https://v8.dious.cc/20210529/7ZoM5r0e/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第11集
-https://v8.dious.cc/20210529/Qsknr9mp/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第12集
-https://v8.dious.cc/20210529/NxwF0vJv/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第13集
-https://v8.dious.cc/20210529/9S6AGfXf/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第14集
-https://v8.dious.cc/20210529/rlbtr91N/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第15集
-https://v8.dious.cc/20210529/uIHcI5ct/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第16集
-https://v8.dious.cc/20210529/n8tUz8Tg/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第17集
-https://v8.dious.cc/20210529/Fi0uvxkl/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第18集
-https://v8.dious.cc/20210529/qEbPJfHo/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第19集
-https://v8.dious.cc/20210529/ifWKus9X/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第20集
-https://v8.dious.cc/20210529/oq6AvTVC/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第21集
-https://v8.dious.cc/20210529/p2YSJP63/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第22集
-https://v8.dious.cc/20210529/J94AE4gi/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第23集
-https://v8.dious.cc/20210529/Kl0hv6sf/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第24集
-https://v8.dious.cc/20210529/aAPoIkgB/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第25集
-https://v8.dious.cc/20210529/4oFoYnug/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第26集
-https://v8.dious.cc/20210529/W1vWznlM/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第27集
-https://v8.dious.cc/20210529/qilctapj/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第28集
-https://v8.dious.cc/20210529/lMedmfvJ/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第29集
-https://v8.dious.cc/20210529/ydZZ8R0h/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第30集
-https://v8.dious.cc/20210529/zuA7VBkQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第31集
-https://v8.dious.cc/20210529/KnGglpPi/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第32集
-https://v8.dious.cc/20210529/mqTONOdP/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第33集
-https://v8.dious.cc/20210529/68s3QD8f/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第34集
-https://v8.dious.cc/20210529/LTRIoVsE/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第35集
-https://v8.dious.cc/20210529/rh6cMfQe/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第36集
-https://v8.dious.cc/20210529/V7NIcubl/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第37集
-https://v8.dious.cc/20210529/wKr9WkvB/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第38集
-https://v8.dious.cc/20210529/gQNHaUVv/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第39集
-https://v8.dious.cc/20210529/xQMpVqms/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第40集
-https://v8.dious.cc/20210529/z8N8ETzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.huishij.com/upload/vod/20210602-1/8a65220eb37a514a5fe6f208cbda4aea.jpg",赵氏孤儿 - 第41集
-https://v8.dious.cc/20210529/fMGIWY53/index.m3u8 
+
