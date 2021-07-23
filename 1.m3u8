@@ -1,12 +1,5 @@
 #EXTM3U
-#EXTINF:-1,CCTV+ Channel 1
-http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
-#EXTINF:-1,CCTV+ Channel 2
-http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
-#EXTINF:-1,央视新闻·正直播
-https://newsalic.v.myalicdn.com:443/news/news07_1/index.m3u8
-#EXTINF:-1,央视新闻·正直播
-https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
+
 #EXTINF:-1,CCTV-1 综合 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225642/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-2 财经 高清
@@ -47,6 +40,14 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225917/2/index.m3u8?fmt=ts2hls
 http://39.135.138.8:6610/PLTV/88888888/224/3221225513/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1,CCTV+ Channel 1
+http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
+#EXTINF:-1,CCTV+ Channel 2
+http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
+#EXTINF:-1,央视新闻·正直播
+https://newsalic.v.myalicdn.com:443/news/news07_1/index.m3u8
+#EXTINF:-1,央视新闻·正直播
+https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 #EXTINF:-1,湖南卫视 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225704/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,浙江卫视 高清
