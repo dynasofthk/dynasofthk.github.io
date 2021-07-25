@@ -85,6 +85,35 @@ http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 ,東森財經新聞
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 
+#EXTINF:-1 ,求索動物
+http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,求索动物
+http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 ,求索科学
+http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 ,求索生活
+http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 ,求索记录
+http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 ,求索四
+http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 ,求索三
+http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 ,求索二
+http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 ,求索记录4K
+http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 ,欢笑剧场4K
+http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+#EXTINF:-1 ,精彩电视
+http://39.134.24.193/PLTV/88888888/224/3221225813/index.m3u8?epg=cntv-cctv8?回看=http://39.134.24.193/PLTV/88888888/224/3221225813/index.m3u8
+#EXTINF:-1 ,精彩电影
+http://39.134.24.193/PLTV/88888888/224/3221225811/index.m3u8?epg=cntv-cctv6?回看=http://39.134.24.193/PLTV/88888888/224/3221225811/index.m3u8
+#EXTINF:-1 ,精彩体育
+http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8?epg=cntv-cctv5?回看=http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8
+#EXTINF:-1 ,精彩综艺
+http://39.134.24.193/PLTV/88888888/224/3221225807/index.m3u8?epg=cntv-cctv3?回看=http://39.134.24.193/PLTV/88888888/224/3221225807/index.m3u8
+
 #EXTINF:-1 tvg-id="电影" tvg-logo="https://img.huishij.com/upload/vod/20210618-1/3ed48669dbd70aadc3c332223d27c6d0.jpg",悬崖之上 GoMovies-电影
 https://v3.dious.cc/20210618/agkqAkrJ/1000kb/hls/index.m3u8
 
