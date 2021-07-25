@@ -53,6 +53,8 @@ http://livetv.dnsfor.me/channel.10.m3u8
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81）
 https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="JiangSuWeiShi.cn" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",江苏卫视高清
+http://117.169.120.140:8080/live/hdjiangsustv/.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sports",ESPN (720p)
 https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN
