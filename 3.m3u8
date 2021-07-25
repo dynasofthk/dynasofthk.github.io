@@ -8,14 +8,13 @@ http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf
 #EXTINF:-1,新视觉HD - 電視直播
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/xsjhd/2300000/mnf.m3u8
 
-EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81）
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81）
 http://livetv.dnsfor.me/channel.18.m3u8
-
-EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台J2（82）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/smallec93b4441247781ef3f6d303dd553ed11526379584.jpg" group-title="",翡翠台J2（82）
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台J2（82）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://www.nicepng.com/png/detail/304-3047243_tvb-hd-jade-tvb-jade.png" group-title="",翡翠台J2（82）
 http://livetv.dnsfor.me/channel.19.m3u8
-#EXTINF:-1 ,TVB 無線新聞台
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="TVB 無線新聞台（83）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZG925S9.jpg" group-title="",無線新聞台（83）
 http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:-1 ,無線財經資訊
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="TVB 無線財經資訊（84）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" group-title="",無線財經資訊（84）
 http://livetv.dnsfor.me/channel.11.m3u8
 #EXTINF:-1 ,香港開電視
 http://livetv.dnsfor.me/channel.9.m3u8
