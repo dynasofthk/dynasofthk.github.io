@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,CCTV-5 体育 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-5+ 体育赛事 高清
@@ -8,8 +7,6 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225706/2/index.m3u8?fmt=ts2hls
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 #EXTINF:-1,新视觉HD - 電視直播
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/xsjhd/2300000/mnf.m3u8
-
-
 #EXTINF:-1,CCTV-1 综合 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225642/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-6 电影 高清
