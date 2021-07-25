@@ -1,51 +1,90 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** USA AMC - github.com/free-iptv" group-title="USA AMC" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA AMC - github.com/free-iptv
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="AMC Absolute Reality" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="USA AMC",AMC Absolute Reality
-https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="AMC IFC Film Picks" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="USA AMC",AMC IFC Film Picks
-https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="AMC Presents" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="USA AMC",AMC Presents
-https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="AMC Rush - github.com/free-iptv" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="USA AMC",AMC Rush - github.com/free-iptv
-https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="AMC Slightly off" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="USA AMC",AMC Slightly off
-https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="*** USA ADULTSWIN - github.com/free-iptv" group-title="USA ADULTSWIN" tvg-logo="https://i.imgur.com/7jmWmez.png",*** USA ADULTSWIN - github.com/free-iptv
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="Aqua Teen Hunger Force" tvg-id="" tvg-logo="https://i.imgur.com/m47dDlM.jpg" group-title="USA ADULTSWIN",Aqua Teen Hunger Force
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-#EXTINF:-1 tvg-name="Black Jesus" tvg-id="" tvg-logo="https://i.imgur.com/1mJ3Kud.jpg" group-title="USA ADULTSWIN",Black Jesus
-https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-#EXTINF:-1 tvg-name="Channel 5" tvg-id="" tvg-logo="https://i.imgur.com/nu38bIP.jpg" group-title="USA ADULTSWIN",Channel 5
-https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
-#EXTINF:-1 tvg-name="Dream Corp LLC" tvg-id="" tvg-logo="https://i.imgur.com/h1Ej8Pt.jpg" group-title="USA ADULTSWIN",Dream Corp LLC
-https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
-#EXTINF:-1 tvg-name="Infomercials" tvg-id="" tvg-logo="https://i.imgur.com/5UoWJrQ.jpg" group-title="USA ADULTSWIN",Infomercials
-https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
-#EXTINF:-1 tvg-name="Last Stream On The Left" tvg-id="" tvg-logo="https://i.imgur.com/eXmwDbu.jpg" group-title="USA ADULTSWIN",Last Stream On The Left
-https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
-#EXTINF:-1 tvg-name="Metalocalypse" tvg-id="" tvg-logo="https://i.imgur.com/d5uiLFM.png" group-title="USA ADULTSWIN",Metalocalypse
-https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
-#EXTINF:-1 tvg-name="Mr. Pickles" tvg-id="" tvg-logo="https://i.imgur.com/YNgmyZY.jpg" group-title="USA ADULTSWIN",Mr. Pickles
-http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
-#EXTINF:-1 tvg-name="Off The Air" tvg-id="" tvg-logo="https://i.imgur.com/Unp3VXo.jpg" group-title="USA ADULTSWIN",Off The Air
-https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-#EXTINF:-1 tvg-name="Rick and Morty" tvg-id="" tvg-logo="https://i.imgur.com/oXhMgb4.jpg" group-title="USA ADULTSWIN",Rick and Morty
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-name="Robot Chicken" tvg-id="" tvg-logo="https://i.imgur.com/A6H6wz4.png" group-title="USA ADULTSWIN",Robot Chicken
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-#EXTINF:-1 tvg-name="Samurai Jack" tvg-id="" tvg-logo="https://i.imgur.com/uIFVD7Y.jpg" group-title="USA ADULTSWIN",Samurai Jack
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-#EXTINF:-1 tvg-name="Squidbillies" tvg-id="" tvg-logo="https://i.imgur.com/vPb8mE1.png" group-title="USA ADULTSWIN",Squidbillies
-https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
-#EXTINF:-1 tvg-name="Superjail" tvg-id="" tvg-logo="https://i.imgur.com/BJC08kJ.jpg" group-title="USA ADULTSWIN",Superjail
-https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
-#EXTINF:-1 tvg-name="The Eric Andre Show" tvg-id="" tvg-logo="https://i.imgur.com/3J7kChZ.jpg" group-title="USA ADULTSWIN",The Eric Andre Show
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-#EXTINF:-1 tvg-name="The Venture Brothers" tvg-id="" tvg-logo="https://i.imgur.com/dsrsbrr.png" group-title="USA ADULTSWIN",The Venture Brothers
-https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
-#EXTINF:-1 tvg-name="Your Pretty Face is Going to Hell" tvg-id="" tvg-logo="https://i.imgur.com/S3KSkMQ.jpg" group-title="USA ADULTSWIN",Your Pretty Face is Going to Hell
-https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
 
+#EXTINF:-1,CCTV-5 体育 高清
+http://39.135.138.8:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-5+ 体育赛事 高清
+http://39.135.138.8:6610/PLTV/88888888/224/3221225706/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,劲爆体育 - 電視直播
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
+#EXTINF:-1,新视觉HD - 電視直播
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/xsjhd/2300000/mnf.m3u8
+
+
+#EXTINF:-1,CCTV-1 综合 高清
+http://39.135.138.8:6610/PLTV/88888888/224/3221225642/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-6 电影 高清
+http://39.135.138.8:6610/PLTV/88888888/224/3221225632/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-7 国防军事 高清
+http://39.135.138.8:6610/PLTV/88888888/224/3221225644/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-8 电视剧 高清
+http://39.135.138.8:6610/PLTV/88888888/224/3221225631/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-9 纪录 高清
+http://39.135.138.8:6610/PLTV/88888888/224/3221225646/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-10 科教 高清
+http://39.135.138.8:6610/PLTV/88888888/224/3221225636/2/index.m3u8?fmt=ts2hls
+
+
+#EXTINF:-1,Samsung Wild Life
+https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,国家地理
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+#EXTINF:-1,探索频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-country="HK" tvg-language="" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="",ViuTV
+http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://aaaa.com.hk/main/wp-content/uploads/2020/02/ViuTV-logo.png" group-title="",ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-name="ViuTVsix" tvg-country="HK" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="",ViuTVsix
+http://61.238.6.49:8000/bysid/96
+#EXTINF:-1 tvg-id="XiangGangKaiDianShi.hk" tvg-name="香港開電視" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" group-title="General",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:-1 tvg-id="TVBXingHe.hk" tvg-name="TVB Xing He" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="",TVB Xing He 星河
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81）
+http://61.238.6.49:8000/bysid/1
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81）
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sports",ESPN (720p)
+https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN
+http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FOXNews.us" tvg-name="FOX News" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="News",FOX News (720p)
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+
+#EXTINF:-1 ,原住民電視
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 ,壹新聞
+http://stream.nexttv.com.tw/n001/playlist.m3u8
+#EXTINF:-1 ,壹新聞
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 ,中天新聞
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 ,中视新聞
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 ,TVBS 新聞台
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 ,台视新聞
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 ,三立Live新聞
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 ,三立iNews
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 ,民视新聞台
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 ,寰宇新闻
+http://seb.sason.top/sc/hyxw.m3u8
+#EXTINF:-1 ,華视新聞資訊
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 ,東森新聞
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 ,東森財經新聞
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+
+#EXTINF:-1 tvg-id="电影" tvg-logo="https://img.huishij.com/upload/vod/20210618-1/3ed48669dbd70aadc3c332223d27c6d0.jpg",悬崖之上 GoMovies-电影
+https://v3.dious.cc/20210618/agkqAkrJ/1000kb/hls/index.m3u8
 
