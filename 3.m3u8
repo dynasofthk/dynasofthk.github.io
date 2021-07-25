@@ -7,9 +7,11 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225706/2/index.m3u8?fmt=ts2hls
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 #EXTINF:-1,新视觉HD - 電視直播
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/xsjhd/2300000/mnf.m3u8
-#EXTINF:-1 ,TVB 無線
+
+EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81）
 http://livetv.dnsfor.me/channel.18.m3u8
-#EXTINF:-1 ,TVB 無線J2
+
+EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台J2（82）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/smallec93b4441247781ef3f6d303dd553ed11526379584.jpg" group-title="",翡翠台J2（82）
 http://livetv.dnsfor.me/channel.19.m3u8
 #EXTINF:-1 ,TVB 無線新聞台
 http://livetv.dnsfor.me/channel.10.m3u8
