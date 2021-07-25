@@ -22,8 +22,6 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225631/2/index.m3u8?fmt=ts2hls
 http://39.135.138.8:6610/PLTV/88888888/224/3221225646/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-10 科教 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225636/2/index.m3u8?fmt=ts2hls
-
-
 #EXTINF:-1,Samsung Wild Life
 https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1,Love Nature 4K
@@ -32,7 +30,6 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 #EXTINF:-1,探索频道
 rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
-
 #EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-country="HK" tvg-language="" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="",ViuTV
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://aaaa.com.hk/main/wp-content/uploads/2020/02/ViuTV-logo.png" group-title="",ViuTV
@@ -41,36 +38,26 @@ https://cdn.hkdtmb.com/hls/99/index.m3u8
 http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 tvg-id="XiangGangKaiDianShi.hk" tvg-name="香港開電視" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" group-title="General",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
 #EXTINF:-1 tvg-id="TVBXingHe.hk" tvg-name="TVB Xing He" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="",TVB Xing He 星河
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81）
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81）
 https://cdn.hkdtmb.com/hls/81/index.m3u8
-
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sports",ESPN (720p)
 https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN
 http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FOXNews.us" tvg-name="FOX News" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="News",FOX News (720p)
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-
 #EXTINF:-1 ,NBA TV (720p) [Not 24/7]
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-
 #EXTINF:-1 ,FreeSports (1080p)
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
-
-
 #EXTINF:-1 ,Pluto TV MLB
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 #EXTINF:-1 ,Pluto TV NFL Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-
-
 #EXTINF:-1 tvg-id="MinShi.tw" tvg-name="民視" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="General",民視 (720p)
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-id="MinShiTaiWan.tw" tvg-name="民視台灣" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="News",民視台灣 (720p)
@@ -79,7 +66,6 @@ http://seb.sason.top/ptv/ftv.php?id=tw
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="MinShiDiYi.tw" tvg-name="民視第一" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="General",民視第一 (720p)
 http://seb.sason.top/ptv/ftv.php?id=dy
-
 #EXTINF:-1 ,求索動物
 http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
 #EXTINF:-1 ,求索动物
@@ -108,7 +94,6 @@ http://39.134.24.193/PLTV/88888888/224/3221225811/index.m3u8?epg=cntv-cctv6?回�
 http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8?epg=cntv-cctv5?回看=http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8
 #EXTINF:-1 ,精彩综艺
 http://39.134.24.193/PLTV/88888888/224/3221225807/index.m3u8?epg=cntv-cctv3?回看=http://39.134.24.193/PLTV/88888888/224/3221225807/index.m3u8
-
 #EXTINF:-1 tvg-id="电影" tvg-logo="https://img.huishij.com/upload/vod/20210618-1/3ed48669dbd70aadc3c332223d27c6d0.jpg",悬崖之上 GoMovies-电影
 https://v3.dious.cc/20210618/agkqAkrJ/1000kb/hls/index.m3u8
 
