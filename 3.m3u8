@@ -84,6 +84,14 @@ http://seb.sason.top/sc/hsxw_fhd.m3u8
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 ,東森財經新聞
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 tvg-id="MinShi.tw" tvg-name="民視" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="General",民視 (720p)
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-id="MinShiTaiWan.tw" tvg-name="民視台灣" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="News",民視台灣 (720p)
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 tvg-id="MinShiXinWenTai.tw" tvg-name="民視新聞台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="News",民視新聞台
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="MinShiDiYi.tw" tvg-name="民視第一" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="General",民視第一 (720p)
+http://seb.sason.top/ptv/ftv.php?id=dy
 
 #EXTINF:-1 ,求索動物
 http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
