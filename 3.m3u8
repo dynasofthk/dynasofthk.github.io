@@ -56,34 +56,21 @@ http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FOXNews.us" tvg-name="FOX News" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="News",FOX News (720p)
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 
-#EXTINF:-1 ,原住民電視
-http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 ,壹新聞
-http://stream.nexttv.com.tw/n001/playlist.m3u8
-#EXTINF:-1 ,壹新聞
-http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1 ,中天新聞
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 ,中视新聞
-http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 ,TVBS 新聞台
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 ,台视新聞
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 ,三立Live新聞
-http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 ,三立iNews
-http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 ,民视新聞台
-http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 ,寰宇新闻
-http://seb.sason.top/sc/hyxw.m3u8
-#EXTINF:-1 ,華视新聞資訊
-http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 ,東森新聞
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 ,東森財經新聞
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 ,NBA TV (720p) [Not 24/7]
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1 ,FreeSports (1080p)
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+
+
+#EXTINF:-1 ,Pluto TV MLB
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 ,Pluto TV NFL Channel
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+
+
 #EXTINF:-1 tvg-id="MinShi.tw" tvg-name="民視" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="General",民視 (720p)
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-id="MinShiTaiWan.tw" tvg-name="民視台灣" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="News",民視台灣 (720p)
