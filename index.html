@@ -6,46 +6,11 @@
     <meta http-equiv="x-ua-compatible" content="IE=edge">
     <meta name="viewport"
         content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
-    <title>Aliplayer Functions</title>
-    <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.7/skins/default/aliplayer-min.css" />
-    <script type="text/javascript" charset="utf-8"
-        src="https://g.alicdn.com/de/prismplayer/2.9.7/aliplayer-min.js"></script>
-
-    <script type="text/javascript" charset="utf-8"
-        src="https://player.alicdn.com/aliplayer/presentation/js/aliplayercomponents.min.js"></script>
-
-
+    <title>Aliplayer</title>
 
 </head>
 
 <body>
-    <div id="player-con"></div>
-    <script>
-        var player = new Aliplayer({
-            id: "player-con",
-            source: "https://v3.dious.cc/20210625/lh83GVZw/index.m3u8",
-            width: "100%",
-            height: "500px",
-            autoplay: true,
-            isLive: false,
-            components: [{
-                name: 'PlaylistComponent',
-                type: AliPlayerComponent.PlaylistComponent,
-                args: [[{
-                    name: '第02集',
-                    source: 'https:\/\/v10.dious.cc\/20210626\/7KBrQOl8\/index.m3u8'
-                }, {
-                    name: '第03集',
-                    source: 'https:\/\/v10.dious.cc\/20210627\/tyNXXkiH\/index.m3u8'
-                }, {
-                    name: '第04集',
-                    source: 'https:\/\/v10.dious.cc\/20210628\/ap5WOUOr\/index.m3u8'
-                }]]
-            }]
-        }, function (player) {
-            console.log("The player is created");
-        });
-    </script>
 </body>
 
 </html>
