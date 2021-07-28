@@ -11,6 +11,8 @@ http://livetv.dnsfor.me/channel.11.m3u8
 http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 tvg-id="hk" tvg-name="kids" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="" group-title="",ABC Kids (720p) [Not 24/7]
 https://c.mjh.nz/101002210222/
+#EXTINF:-1 tvg-id="chinese" tvg-name="CCTV" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Em9MlopNd6WNIaAOn2w6CSX5t1irGLwUGGQ2V6pQIt45ettcD3nxaTdhdLgmqh00Koc&usqp=CAU" group-title="",CCTV-14少儿.m3u8
+http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8
 #EXTINF:-1 tvg-id="XiangGangKaiDianShi.hk" tvg-name="香港開電視" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" group-title="General",香港開電視
 http://livetv.dnsfor.me/channel.9.m3u8
 #EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-country="HK" tvg-language="" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="",ViuTV
