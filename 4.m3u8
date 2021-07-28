@@ -24,12 +24,8 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81）
 https://cdn.hkdtmb.com/hls/81/index.m3u8
-
 #EXTINF:-1 tvg-id="chinese" tvg-name="Astro 华丽台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Astro_Wah_Lai_Toi_2015.png/revision/latest/scale-to-width-down/215?cb=20201116012431" group-title="",Astro 华丽台 (Astro Wah Lai Toi)
 http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="chinese" tvg-name="Astro 华丽台" tvg-country="HK" 
-tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Astro_XTY.png/400px-Astro_XTY.png" group-title="",Astro 小太阳 (Astro Xiao Tai Yang) [Not 24/7]
+#EXTINF:-1 tvg-id="chinese" tvg-name="Astro 华丽台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Astro_XTY.png/400px-Astro_XTY.png" group-title="",Astro 小太阳 (Astro Xiao Tai Yang) [Not 24/7]
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
