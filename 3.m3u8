@@ -34,6 +34,12 @@ https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="JiangSuWeiShi.cn" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",江苏卫视高清
 http://117.169.120.140:8080/live/hdjiangsustv/.m3u8
 
+#EXTINF:-1 tvg-id="us" tvg-name="hbo" tvg-country="us" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest/scale-to-width-down/250?cb=20110407003848" group-title="",HBO Family [Asia Feed]
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="us" tvg-name="hbo" tvg-country="us" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/HBO_HiTS.svg/revision/latest?cb=20100511073403" group-title="",HBO Hits [Asia Feed]
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#EXTINF:-1 tvg-id="us" tvg-name="hbo" tvg-country="us" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/HBO_1980_Orange.svg/revision/latest/scale-to-width-down/250?cb=20161226123650" group-title="",HBO PREMIUM
+https://s.vdo.ai/vhs/1.m3u8
 #EXTINF:-1,CCTV-5 体育 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-5+ 体育赛事 高清
