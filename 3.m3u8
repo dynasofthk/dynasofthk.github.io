@@ -9,6 +9,8 @@ http://livetv.dnsfor.me/channel.10.m3u8
 http://livetv.dnsfor.me/channel.11.m3u8
 #EXTINF:-1 tvg-id="chinese" tvg-name="Astro 华丽台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Astro_Wah_Lai_Toi_2015.png/revision/latest/scale-to-width-down/215?cb=20201116012431" group-title="",Astro 华丽台 (Astro Wah Lai Toi)
 http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 tvg-id="hk" tvg-name="kids" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="" group-title="",ABC Kids (720p) [Not 24/7]
+https://c.mjh.nz/101002210222/
 #EXTINF:-1 tvg-id="XiangGangKaiDianShi.hk" tvg-name="香港開電視" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" group-title="General",香港開電視
 http://livetv.dnsfor.me/channel.9.m3u8
 #EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-country="HK" tvg-language="" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="",ViuTV
