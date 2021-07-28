@@ -18,14 +18,15 @@ https://cdn.hkdtmb.com/hls/99/index.m3u8
 http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 tvg-id="XiangGangKaiDianShi.hk" tvg-name="香港開電視" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" group-title="General",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-id="TVBXingHe.hk" tvg-name="TVB Xing He" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="",TVB Xing He 星河
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81）
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81）
 https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="TVBXingHe.hk" tvg-name="TVB Xing He" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="",TVB Xing He 星河
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-id="chinese" tvg-name="Astro 华丽台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Astro_Wah_Lai_Toi_2015.png/revision/latest/scale-to-width-down/215?cb=20201116012431" group-title="",Astro 华丽台 (Astro Wah Lai Toi)
 http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 tvg-id="chinese" tvg-name="Astro 华丽台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Astro_XTY.png/400px-Astro_XTY.png" group-title="",Astro 小太阳 (Astro Xiao Tai Yang) [Not 24/7]
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-
+#EXTINF:-1 tvg-id="chinese" tvg-name="CCTV" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Em9MlopNd6WNIaAOn2w6CSX5t1irGLwUGGQ2V6pQIt45ettcD3nxaTdhdLgmqh00Koc&usqp=CAU" group-title="",CCTV-14少儿.m3u8
+http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8
