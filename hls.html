@@ -9,11 +9,13 @@
     var hls = new Hls();
     hls.loadSource(videoSrc);
     hls.attachMedia(video);
+    video.play();
   }
   else if (video.canPlayType('application/vnd.apple.mpegurl')) {
     video.src = videoSrc;    
+    video.play();
   }
-  video.play();
+  
 </script>
 
 
