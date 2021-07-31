@@ -1,29 +1,23 @@
-<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark">
-  <head>
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-  </head>
-  <body>
-
-
+<!-- https://v9.dious.cc/20210721/UjGLUTJX/index.m3u8 -->
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<!-- Or if you want a more recent alpha version -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/hls.js@alpha"></script> -->
 <video id="video"></video>
 <script>
-  if (Hls.isSupported()) {
-    var video = document.getElementById('video');
+  var video = document.getElementById('video');
+  var videoSrc = 'https://v9.dious.cc/20210721/UjGLUTJX/index.m3u8';
+  //
+  // First check for native browser HLS support
+  //
+  if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    video.src = videoSrc;
+    //
+    // If no native HLS support, check if HLS.js is supported
+    //
+  } else if (Hls.isSupported()) {
     var hls = new Hls();
-    // bind them together
+    hls.loadSource(videoSrc);
     hls.attachMedia(video);
-    hls.on(Hls.Events.MEDIA_ATTACHED, function () {
-      console.log('video and hls.js are now bound together !');
-      hls.loadSource('https://v9.dious.cc/20210719/jB5T4qmn/index.m3u8');
-      hls.on(Hls.Events.MANIFEST_PARSED, function (event, data) {
-        console.log(
-          'manifest loaded, found ' + data.levels.length + ' quality level'
-        );
-      });
-    });
   }
 </script>
-    
-    
-</html>
 
