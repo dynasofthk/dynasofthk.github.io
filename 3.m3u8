@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81）
-http://livetv.dnsfor.me/channel.18.m3u8
+https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="hk" tvg-name="高清翡翠台J2（82）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-j2.jpg" group-title="",高清翡翠台J2（82）
-http://livetv.dnsfor.me/channel.19.m3u8
-#EXTINF:-1 tvg-id="hk" tvg-name="TVB 無線新聞台（83）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZG925S9.jpg" group-title="",無線新聞台（83）
-http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:-1 tvg-id="hk" tvg-name="TVB 無線財經資訊（84）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" group-title="",無線財經資訊（84）
-http://livetv.dnsfor.me/channel.11.m3u8
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="hk" tvg-name="無線新聞台（83）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZG925S9.jpg" group-title="",無線新聞台（83）
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 tvg-id="hk" tvg-name="無線電視明珠台（84）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://hk.heytv.org/wp-content/uploads/2019/04/1-1P3111915460-L.jpg" group-title="",無線電視明珠台（84)
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="hk" tvg-name="TVB 無線財經資訊（85）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" group-title="",無線財經資訊（85）
+https://cdn.hkdtmb.com/hls/85/index.m3u8
 #EXTINF:-1 tvg-id="chinese" tvg-name="Astro 华丽台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Astro_Wah_Lai_Toi_2015.png/revision/latest/scale-to-width-down/215?cb=20201116012431" group-title="",Astro 华丽台 (Astro Wah Lai Toi)
 http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 tvg-id="hk" tvg-name="kids" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="" group-title="",ABC Kids (720p) [Not 24/7]
