@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Live TV - HLS 2</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link href="https://unpkg.com/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <!--Replace with your tailwind.css once created-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js" integrity="sha256-XF29CBwU1MWLaGEnsELogU6Y6rcc5nCkhhx89nFMIDQ=" crossorigin="anonymous"></script>
+
+
+    <link href="https://vjs.zencdn.net/7.7.6/video-js.css" rel="stylesheet" />       
+    <script src="https://vjs.zencdn.net/7.7.6/video.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/videojs-contrib-hls@5.15.0/dist/videojs-contrib-hls.js"></script>
+
+  </head>
+  <body>
+
+
+    <div class="flex flex-wrap items-center">    
+
+<!-- 最強大腦日本第一決定戰 線上看HD - 奈飛線路 - 綜藝 - 小鴨影音 -->
+<video width="380" height="210" id="180612" 
+    class="video-js  vjs-default-skin" controls preload="auto" 
+    poster='https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Now_TV_logo.svg/200px-Now_TV_logo.svg.png' 
+    data-setup='{}'>            
+    <source src="https://cdn.hkdtmb.com/hls/81/index.m3u8" type="application/x-mpegURL">
+</video>  
+      
+
+<!-- JET推理劇場 線上看第1集 - 奈飛線路 - 日劇 - 小鴨影音-->
+<video width="380" height="210" id="159073" 
+    class="video-js  vjs-default-skin" controls preload="auto" 
+    poster='http://static.epg.best/us/FoxNews.us.png' 
+    data-setup='{}'>            
+    <source src="https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8" type="application/x-mpegURL">
+</video>  
+
+    <div>
+        <video width="360" height="210" id="36707"
+            class="video-js  vjs-default-skin" controls preload="auto" muted
+            poster='https://img.huishij.com/upload/vod/20210913-1/6bbddc71a93798c8d73f7355fb354087.jpg'>
+            <source src="https://v7.dious.cc/20210821/zDJSbQvA/index.m3u8" type="application/x-mpegURL">
+        </video>
+        第02集
+    </div>
+      
+
+<!-- 錦繡南歌 線上看第1集 - 奈飛線路 - 陸劇 - 小鴨影音 -->
+<video width="380" height="210" id="174581" 
+    class="video-js  vjs-default-skin" controls preload="auto" 
+    poster='https:\/\/img.huishij.com\/upload\/vod\/20200716-1\/be3f10a38fce15de72124210ad900987.jpg"' 
+    data-setup='{}'>            
+    <source src="https://video.dious.cc/20200709/cvKn2tEB/index.m3u8" type="application/x-mpegURL">
+</video>  
+      
+
+
+      
+      
+        
+    </div>
+
+
+
+</body>
+</html>
