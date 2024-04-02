@@ -3,130 +3,59 @@
 #EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",飢餓遊戲🤹‍♂️🤹‍♂️｜24小時不斷電直播
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712082395/ei/e_kLZqvUJvKUvcAPj6qniAM/ip/61.93.180.188/id/A98LJq71BZg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9zj9tagTXMKbGVjxDCRCwyLUV--LdtW33wb0fwTOLk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJyr-v5XXWOtzHyYr3PTQHkaUyuh9t7XqpIMBeO5I735AiEA-OBovuDnN0xKc3liJQl8eIkHQu0k5rqMuuDmg05_YIw%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV01
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV01 三立新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV02
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV02 寰宇新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV03
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV03 東森新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV04
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV05
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV06
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV07
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV08
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV08 DW
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV09
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV09 CTV News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV10
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV11
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV12
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV12 CTV HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV13
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV14
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV15
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV16
+
+
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV16 K-POP
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV17
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV17 ming 視新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV18
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV19
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV20
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV20 CCTV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV21
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV22
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV22 鳳凰衛視PhoenixTV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV23
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV24
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV24 ABC News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV25
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV25 台視新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV26
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV26 天才衝衝衝直播
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV27
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV28
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV28 中天新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV29
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
-
-
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV30
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV31
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV31 TVBS NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV32
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV32 三立新聞台 2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV33
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV33 GB News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV34
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV34 中視 HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV35
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV36
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV37
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV38
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV38 France 24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV39
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV39 NBC News Now
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV40
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV41
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV42
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV42 CTV中視
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV43
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV43 鳳凰衛視HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV44
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV45
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV46
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV47
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV48
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV49
+#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV49 中天電視 頭條開講
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV60
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV61
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV62
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV63
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV64
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV65
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV66
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV67
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV68
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
-#EXTINF:-1 tvg-id="9245" tvg-name="天空资源网" status="online",TV69
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
+
 
 
 
