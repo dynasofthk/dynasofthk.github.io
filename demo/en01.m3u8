@@ -83,4 +83,5 @@ https://vod3.ttbfp5.com/20230701/O6jeTa2q/index.m3u8
 https://vod2.ttbfp4.com/20221021/MnonU7f2/index.m3u8
 #EXTINF:-1 tvg-id="麻豆" tvg-logo="" group-title="传媒",被炮台操到稀哩哗拉潮吹啦
 https://t25.cdn2020.com/video/m3u8/2024/04/02/dc256cc0/index.m3u8
-http://localhost:8081/popuphls?url=https://vod2.ttbfp4.com/20221021/MnonU7f2/index.m3u8
+#EXTINF:-1 tvg-id="麻豆" tvg-logo="" group-title="传媒",麻豆
+https://vod2.ttbfp4.com/20221021/MnonU7f2/index.m3u8
