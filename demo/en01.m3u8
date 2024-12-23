@@ -1,4 +1,13 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="剧" tvg-name="20241223" tvg-logo="https://img.bfzypic.com/upload/vod/20240921-1/32687192966c6d2420f11a95a4bdfe1b.jpg" group-title="暗战缉杀",暗战缉杀
+https://c1.rrcdnbf3.com/video/replacexxx0810/20240924NSjtnp0Aindex.m3u8/index.m3u8
+
+
+#EXTINF:-1 tvg-id="剧" tvg-name="20241223" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Conclave_film_poster.jpg" group-title="秘密集会",秘密集会
+https://v2.qrssv.com/202411/28/nfsznCWYKd19/video/index.m3u8
+
+
 #EXTINF:-1 tvg-id="欧美剧" tvg-name="天空资源网_20240227" tvg-logo="https://pic.huishij.com/upload/vod/20240227-1/e9ccf7acb7a6cca1607e2f5847b1fea0.jpg" group-title="幕府将军",第01集 幕府将军
 https://v10.dious.cc/20240227/7bkextkr/index.m3u8
 #EXTINF:-1 tvg-id="欧美剧" tvg-name="天空资源网_20240227" tvg-logo="https://pic.huishij.com/upload/vod/20240227-1/e9ccf7acb7a6cca1607e2f5847b1fea0.jpg" group-title="幕府将军",第02集 幕府将军
